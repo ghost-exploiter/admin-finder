@@ -13,3 +13,6 @@ Cara Install Admin Finder
 + python3 admf.py
 
 mudahkn:V yoo kalo blom paham hub via W.A = 085395339220
+
+kalo cara pakenya tinggal ikuti langkah diatas trus isi webnyadengan mengikuti syaaratnya
+trus scan kalo berhasil akan muncul warna ijo
